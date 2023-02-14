@@ -1,0 +1,25 @@
+@import './fonts/fontiran';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    /* list-style: none; */
+    font-family: iranyekan;
+}
+
+:root {
+     --green: #013D29;
+     --green-light: #1BA71C;
+     --black: #020202;
+     --gray: #F6F6F6;
+     --white: #FFFFFF;
+}
+
+body {
+    min-height: 100vh;
+    background: var(--white);
+    font-family: iranyekan;
+    direction: rtl;
+    padding: 2rem;
+}
