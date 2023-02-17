@@ -11,7 +11,7 @@
    justify-content: center;
    min-height: 30rem;
    min-width: 30rem;
-   border-radius: 0.4rem;
+   border-radius: var(--radius);
 }
 
 .productImage {
@@ -50,6 +50,8 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.productPrice { color: var(--green-light); }
 
 .addToCartBtn {
     color: var(--white);
