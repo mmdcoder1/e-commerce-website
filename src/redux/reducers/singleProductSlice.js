@@ -3,7 +3,7 @@ import axios from "axios";
 
 
 const myTokenString = "255399:63bc62fb3154f0.09002208";
-const api = "";
+const api = `https://one-api.ir/digikala/?token=${myTokenString}&action=product&id=`;
 const localhost_api = `http://localhost:4001/mobiles/`;
 
 const initialState = {
@@ -16,8 +16,8 @@ export const fetchEachProduct = createAsyncThunk(
     "fetch/fetchEachProduct",
     async (mobileId) => {
         try {
-            const response = await axios.get(localhost_api + mobileId);
-            return response.data;
+            const response = await axios.get(api + mobileId);
+            return response.data.result;
         } catch(error) {
              return error;
         }

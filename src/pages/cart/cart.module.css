@@ -14,7 +14,7 @@
     display: flex;
     gap: 2rem;
     background: var(--gray);
-    border-radius: 0.4rem;
+    border-radius: var(--radius);
     padding: 2rem;
 }
 
@@ -60,13 +60,18 @@
     gap: 0.8rem;
     align-items: center;
     font-size: 1.2rem;
+    background-color: var(--white);
+    border-radius: var(--radius);
+    padding:0.4rem 0.8rem;
+
 }
 
+.productCountText { color: var(--green); }
+
 .productCountBtn {
-     color: var(--white);
+     color: var(--green);
      border-radius: 0.4rem;
      border: none;
-     background: var(--green);
      width: 2rem;
      height: 2rem;
      font-size: 1rem;
@@ -74,11 +79,13 @@
      align-items: center;
      justify-content: center;
      cursor: pointer;
+     border-radius: var(--radius);
+     background-color: transparent;
 }
 
 .paymentContainer {
     background: var(--gray);
-    border-radius: 0.4rem;
+    border-radius: var(--radius);
     max-height: 14rem;
     flex-basis: 25%;
     padding: 2rem;
@@ -103,10 +110,11 @@
     background: var(--green);
     color: var(--white);
     border: none;
-    border-radius: 0.3rem;
+    border-radius: var(--radius);
     padding: 0.6rem;
     font-size: 1rem;
     cursor: pointer;
+    
 }
 
 /* empty cart component start */
@@ -119,7 +127,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.4rem;
 }
 .goToHomeButton { 
     color: var(--white);
@@ -127,10 +135,19 @@
     border: none;
     outline: none;
     font-size: 1rem;
-    border-radius: 3rem;
+    border-radius: var(--radius);
     padding: 0.6rem 1.4rem;
     cursor: pointer;
     transition: .2s ease;
+}
+
+.goToHomeButton:hover {
+    outline: 2px solid var(--green);
+    background: transparent;
+    color: var(--green);
+}
+.emptyCartImage {
+    width: 160%;
 }
 /* empty cart  component end */
 

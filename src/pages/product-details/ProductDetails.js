@@ -21,9 +21,13 @@ import { fetchEachProduct } from '../../redux/reducers/singleProductSlice';
 import { add_item, remove_item, increase, decrease } from '../../redux/reducers/productsSlice';
 
 //router
+import { Link } from 'react-router-dom';
 
 //converter
 import PN from 'persian-number';
+
+//images
+import notFoundImage from '../../images/404-page.png';
 
 const ProductDetails = () => {
     const url_parameters = useParams();
@@ -35,7 +39,7 @@ const ProductDetails = () => {
 
     const load_attributes = (attributes) => {
         return attributes.map((attribute, index) => {
-            return <li key={index}>{attribute.title}: <span>{attribute.values[0]}</span></li>
+            return <li style={{ marginTop: "5px" }} key={index}>{attribute.title}: <span>{attribute.values[0]}</span></li>
         })
     }
 
@@ -43,18 +47,26 @@ const ProductDetails = () => {
         dispatch(fetchEachProduct(url_parametersID))
     }, [dispatch])
 
+     
+    //components
+    const NotFoundComponent = <div className={styles.notFoundCotainer}>
+                                <img className={styles.notFoundImage} src={notFoundImage} alt='404' />
+                                <h3>متاسفانه صفحه ای که دنبالش بودید یافت نشد!</h3>
+                                <Link className={styles.addToCartBtn} to="/">برو به خانه</Link>
+                             </div>;
+    const LoadingComponent = <div className='loader'></div>;
+    //components
 
+    if (loading) return LoadingComponent;
+    if(!product.id) return NotFoundComponent;
 
-    
     //dispatch functions start
-    let PRODUCT_DATA = {};
-    if(product.id) PRODUCT_DATA = { id: url_parametersID ,name: product.title_fa, image: product.images.main , price: product.price.selling_price };
 
+    let PRODUCT_DATA = { id: url_parametersID ,name: product.title_fa, image: product.images.main , price: product.price.selling_price };
     const ADD_ITEM_FUNCTION = () => dispatch(add_item(PRODUCT_DATA));
     const REMOVE_FUNCTION = () => dispatch(remove_item(PRODUCT_DATA));
     const INCREASE_FUNCTION = () => dispatch(increase(PRODUCT_DATA));
     const DECREASE_FUNCTION = () => dispatch(decrease(PRODUCT_DATA));
-
 
     //dispatch functions end
 
@@ -62,12 +74,10 @@ const ProductDetails = () => {
     let productID = cart.items.findIndex(item => item.id === url_parametersID);
     //load buttons functions end
 
-    if (loading) return <div className='loader'></div>;
-    else if (error.message)  return <div>Error</div>;
-    else if(product.id){
-        return <main className={styles.product}>
+    
+    return <main className={styles.product}>
                     {/* product start */}
-                                
+
                                 {/* cover start */}
                                 <div className={styles.productCover}>
                                     <img className={styles.productImage} src={product.images.main} />
@@ -80,7 +90,7 @@ const ProductDetails = () => {
                                     <div className={styles.productDetails}>
                                         <h4 className={styles.productName}>{product.title_fa}</h4>    
                                         <div className={styles.productInfo}>
-                                            <h3>ویژگی ها</h3>
+                                            <h3 style={{ color: "var(--green)" }}>ویژگی ها</h3>
                                             <ul>{ load_attributes(product.review.attributes) }</ul>
                                         </div>
                                     </div>
@@ -105,7 +115,6 @@ const ProductDetails = () => {
 
                         {/* product end */}
                 </main>
-        }    
 };
 
 

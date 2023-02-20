@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 2.6rem;
+    margin-right: 0.8rem;
+    font-size: 1.04rem;
+}
+
+.link {
+    color: #cdcdcd
+}
+
+.activeLink {
+    color: var(--black);
+}

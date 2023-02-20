@@ -26,6 +26,11 @@ const Cart = () => {
       const { error, cart } = useSelector(state => state.productsReducer);
       const dispatch = useDispatch();
     //redux functions end
+
+    const paymentFunc = () => {
+        alert("پرداخت شما با موفقیت انجام شد!");
+        dispatch(checkout())
+    }
     
     const load_data = () => {
         if (error.message)  return <div>Error</div>;
@@ -80,12 +85,12 @@ const Cart = () => {
                         <p className={styles.paymentText}><span>تعداد محصولات:</span><span className={styles.paymentValue}>{PN.convertEnToPe(cart.sums.itemsCounter)}</span></p>
                         <p className={styles.paymentText}><span>جمع سبد خرید:</span><span className={styles.paymentValue}>{PN.convertEnToPe(PN.sliceNumber(cart.sums.total / 10))} تومان</span></p>
                     </div>
-                    <button onClick={() => dispatch(checkout())} className={styles.payBtn}>پرداخت</button>
+                    <button onClick={paymentFunc} className={styles.payBtn}>پرداخت</button>
                 </div>
               </> :
               <div className={styles.emptyCart}>  
                   <div className={styles.emptyCartInside}>
-                     <img src={EMPTY_CART} alt="empty cart" />
+                     <img className={styles.emptyCartImage} src={EMPTY_CART} alt="empty cart" />
                      <h3>سبد خرید شما خالی است!</h3>
                      <Link className={styles.goToHomeButton} to="/">برو به خانه</Link>
                   </div>

@@ -4,6 +4,8 @@ import { useState } from 'react';
 import { 
     Outlet,
     Link,
+    useLocation,
+    Navigate,
     useNavigate
 } from 'react-router-dom';
 
@@ -30,15 +32,21 @@ import Navigation from '../../../components/navigation/Navigation';
 const Search = () => {
     const { itemsCounter } = useSelector(state => state.productsReducer.cart.sums);
     const dispatch = useDispatch();
-    // const navigate = useNavigate();
+    const { pathname } = useLocation();
+
      
-    const { register, watch, handleSubmit } = useForm();
-    const onSubmit = data => null;
+    const { register, watch, handleSubmit, reset } = useForm();
     let searched_value = watch('searched_value');
+    const navigate = useNavigate();
     
     if(searched_value != undefined){
-        dispatch(search_product( { value: searched_value } ))
+        if(pathname === "/") dispatch(search_product( { value: searched_value } ))
     }
+
+    const onSubmit = data => {
+        // dispatch(search_product( { value: searched_value } ))
+        navigate("/", { replace: true, state: { data }})
+    };
     
 
     return (

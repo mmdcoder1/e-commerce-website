@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     /* grid-template-rows: ; */
-    gap: 1.8rem 1.4rem;
+    gap: 3rem 1.4rem;
 }
 
 .product {
@@ -51,4 +51,25 @@
 
 .productPrice {
     color: var(--green-light);
+}
+
+.noResult {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    gap: 1rem;
+}
+
+.noResultImg {
+    width: 20rem;
+    height: 20rem;
+}
+
+.noResultTitle {
+   color: var(--black);
 }
