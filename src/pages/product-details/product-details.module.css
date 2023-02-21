@@ -118,6 +118,10 @@
 /* Not found comp end */
 
 
+.atribTitle {
+    color: #4b515d;
+}
+
 
 /* media */
 @media (max-width: 768px) {

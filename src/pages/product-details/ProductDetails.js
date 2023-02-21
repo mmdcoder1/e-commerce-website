@@ -39,7 +39,7 @@ const ProductDetails = () => {
 
     const load_attributes = (attributes) => {
         return attributes.map((attribute, index) => {
-            return <li style={{ marginTop: "5px" }} key={index}>{attribute.title}: <span>{attribute.values[0]}</span></li>
+            return <li style={{ marginTop: "5px" }} key={index}><span className={styles.atribTitle}>{attribute.title}:</span> <span>{attribute.values[0]}</span></li>
         })
     }
 
@@ -58,6 +58,8 @@ const ProductDetails = () => {
     //components
 
     if (loading) return LoadingComponent;
+    if(error) return NotFoundComponent;
+    if(product === undefined) return NotFoundComponent;
     if(!product.id) return NotFoundComponent;
 
     //dispatch functions start

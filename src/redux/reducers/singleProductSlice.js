@@ -19,6 +19,7 @@ export const fetchEachProduct = createAsyncThunk(
             const response = await axios.get(api + mobileId);
             return response.data.result;
         } catch(error) {
+            console.log(error);
              return error;
         }
     }

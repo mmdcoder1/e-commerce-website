@@ -1,4 +1,4 @@
-import React from 'react';
+import { useState } from 'react';
 
 //styles
 import styles from './cart.module.css';
@@ -20,17 +20,22 @@ import EMPTY_CART from '../../images/empty-cart.svg';
 
 //router
 import { Link } from 'react-router-dom';
+import Payment from '../../components/payment/Payment';
 
 const Cart = () => {
     //redux functions start
       const { error, cart } = useSelector(state => state.productsReducer);
       const dispatch = useDispatch();
+      const [showPayment, setShowPayment] = useState(false);
     //redux functions end
 
     const paymentFunc = () => {
-        alert("پرداخت شما با موفقیت انجام شد!");
         dispatch(checkout())
+        setShowPayment(true);
     }
+
+    const hidePayment = () => setShowPayment(false);
+    
     
     const load_data = () => {
         if (error.message)  return <div>Error</div>;
@@ -62,7 +67,7 @@ const Cart = () => {
                                    { (item.quantity === 1) ? <button onClick={() => dispatch(remove_item(item))} className={styles.productCountBtn}><FiTrash /></button> : <button onClick={() => dispatch(decrease(item))} className={styles.productCountBtn}><FiMinus /></button> }
                                </div>
                            </div>
-   
+                           
                        </div>
                    {/* left col end */}
    
@@ -94,6 +99,7 @@ const Cart = () => {
                      <h3>سبد خرید شما خالی است!</h3>
                      <Link className={styles.goToHomeButton} to="/">برو به خانه</Link>
                   </div>
+                  <Payment show={showPayment} click={hidePayment} />
               </div>
             }
         </main>

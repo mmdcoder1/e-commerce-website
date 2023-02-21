@@ -1,0 +1,1295 @@
+{
+  "mobiles": {
+        "result": [
+            {
+                "id": 9886572,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل شیائومی مدل Redmi Note 10 Pro دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - گلوبال",
+                "title_en": "Xiaomi Redmi Note 10 pro Dual SIM 256GB And 8GB RAM Mobile Phone - Global",
+                "rating": {
+                    "rate": 88,
+                    "count": 754
+                },
+                "brand": {
+                    "title_fa": "شیائومی"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/4fd57505f8871f90ba2165c78410caad711ecd8c_1668508568.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 37740217,
+                "parameters": {
+                    "color_ids": [
+                        11,
+                        6
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 91290000,
+                    "rrp_price": 91290000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9681959,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy A13 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت به همراه شارژر",
+                "title_en": "Samsung Galaxy A13 Dual SIM 64GB And 4GB RAM Mobile Phone with charger",
+                "rating": {
+                    "rate": 88,
+                    "count": 1384
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/06aaa82b2af4b71992683701769b0afa4fa169bf_1666160815.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 35180175,
+                "parameters": {
+                    "color_ids": [
+                        1,
+                        4,
+                        2
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 56490000,
+                    "rrp_price": 56490000,
+                    "order_limit": 3,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 7475119,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy S21 FE 5G دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+                "title_en": "Samsung Galaxy S21 FE 5G Dual SIM 256GB And 8GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 86,
+                    "count": 1514
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/4af1bad23ab1945fa5cef6a333792196e0fe850e_1656426417.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38168802,
+                "parameters": {
+                    "color_ids": [
+                        11,
+                        21
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 179990000,
+                    "rrp_price": 179990000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 8364953,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل  Galaxy A73 5G SM-A736B\/DS دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+                "title_en": "Samsung Galaxy A73 5G SM-A736B\/DS Dual SIM 256GB And 8GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 86,
+                    "count": 874
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/1b95a4ca2d5643f2b03f3721adef4cede444d3c5_1656406812.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 37891217,
+                "parameters": {
+                    "color_ids": [
+                        6,
+                        11,
+                        2
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 161990000,
+                    "rrp_price": 161990000,
+                    "order_limit": 3,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9886220,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل اپل مدل SE 2020 LL\/A تک سیم کارت ظرفیت 256 گیگابایت و 3 گیگابایت رم",
+                "title_en": " Apple iPhone SE 2020 LL\/A Single SIM 256GB And 3GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 88,
+                    "count": 50
+                },
+                "brand": {
+                    "title_fa": "اپل"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/3827a0aa00d51a7441d97355f8b049d3e973adb4_1668506860.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38168117,
+                "parameters": {
+                    "color_ids": [
+                        3
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 177000000,
+                    "rrp_price": 177000000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "marketable_stock": 2,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "تنها 2 عدد در انبار باقیست",
+                    "text_color": "#d32f2f",
+                    "icon": null,
+                    "icon_color": null
+                }
+            },
+            {
+                "id": 8408062,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل GALAXY A53 5G دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+                "title_en": "Samsung Galaxy A53 5G Dual SIM 128GB And 8GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 86,
+                    "count": 444
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/d3e85fd24875a27b1fa4bc12efa4b2b2d18e5f0b_1656429721.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38241687,
+                "parameters": {
+                    "color_ids": [
+                        4,
+                        1
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 127490000,
+                    "rrp_price": 127490000,
+                    "order_limit": 2,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9944694,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy S21 FE 5G دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام ",
+                "title_en": "Samsung Galaxy S21 FE 5G Dual SIM 256GB And 8GB RAM Mobile Phone - Vietnam",
+                "rating": {
+                    "rate": 84,
+                    "count": 58
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/4af1bad23ab1945fa5cef6a333792196e0fe850e_1669120331.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38266005,
+                "parameters": {
+                    "color_ids": [
+                        11
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 197990000,
+                    "rrp_price": 197990000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9209669,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy S22 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت نسخه اسنپدراگون",
+                "title_en": "Samsung Galaxy S22 Ultra 5G Dual SIM 512GB With 12GB RAM Mobile Phone Snapdragon version",
+                "rating": {
+                    "rate": 88,
+                    "count": 50
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/3b80e5838f5ff4f674f82d5615296c06cd4f9f8c_1660628839.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 33107613,
+                "parameters": {
+                    "color_ids": [
+                        6,
+                        1,
+                        150
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 553000000,
+                    "rrp_price": 553000000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "marketable_stock": 1,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "تنها 1 عدد در انبار باقیست",
+                    "text_color": "#d32f2f",
+                    "icon": null,
+                    "icon_color": null
+                }
+            },
+            {
+                "id": 9636489,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy A13 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت به همراه شارژر",
+                "title_en": "Samsung Galaxy A13 Dual SIM 128GB And 4GB RAM Mobile Phone with charger",
+                "rating": {
+                    "rate": 88,
+                    "count": 753
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/6de67c3df626f9a133a3aa41815b9d7b7619cc60_1665829192.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38144576,
+                "parameters": {
+                    "color_ids": [
+                        1,
+                        4,
+                        2
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 65790000,
+                    "rrp_price": 65790000,
+                    "order_limit": 5,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 10320137,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy Z Fold4 دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+                "title_en": "Samsung Galaxy Z Fold4 Dual SIM 512GB And 12GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 80,
+                    "count": 3
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/8a508e5a3d58660a0c8e6e1a62e5bb2326d64a6a_1672572340.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 37052964,
+                "parameters": {
+                    "color_ids": [
+                        1
+                    ]
+                },
+                "warehouse_stock": 5,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 761250000,
+                    "rrp_price": 761250000,
+                    "order_limit": 2,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 7714816,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy S21 FE 5G SM-G990E\/DS دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+                "title_en": "Samsung Galaxy S21 FE 5G SM-G990E\/DS Dual SIM 128GB And 8GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 84,
+                    "count": 170
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/f9e0f4bd266dd2c1e3c300f624e37a5d6cba9d54_1656427600.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 28307276,
+                "parameters": {
+                    "color_ids": [
+                        11,
+                        21
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 163290000,
+                    "rrp_price": 163290000,
+                    "order_limit": 2,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9636761,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل Galaxy A23 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت - ویتنام",
+                "title_en": "Samsung Galaxy A23 Dual SIM 128GB And 4GB RAM Mobile Phone - Vietnam",
+                "rating": {
+                    "rate": 86,
+                    "count": 263
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/360d6643c1b7bd28ed208426792b395d85e18589_1665830316.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38147130,
+                "parameters": {
+                    "color_ids": [
+                        1,
+                        4,
+                        2
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 72990000,
+                    "rrp_price": 72990000,
+                    "order_limit": 5,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 8093113,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل شیائومی مدل Redmi Note 11S دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت - گلوبال",
+                "title_en": "Xiaomi Redmi Note 11S Dual SIM 128GB And 8GB RAM Mobile Phone - Global",
+                "rating": {
+                    "rate": 88,
+                    "count": 1110
+                },
+                "brand": {
+                    "title_fa": "شیائومی"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/e61958991d5905572f1a5385af53ef57376a0cb6_1656406171.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 34545044,
+                "parameters": {
+                    "color_ids": [
+                        11
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": false,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 82950000,
+                    "rrp_price": 82950000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "product_badge": []
+            },
+            {
+                "id": 9125271,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل اپل مدل iPhone 13 CH دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 4 گیگابایت",
+                "title_en": "Apple iPhone 13 CH Dual SIM 256GB And 4GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 92,
+                    "count": 82
+                },
+                "brand": {
+                    "title_fa": "اپل"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1659522827.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 38178406,
+                "parameters": {
+                    "color_ids": [
+                        1
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": false,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 495000000,
+                    "rrp_price": 495000000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "marketable_stock": 3,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "product_badge": {
+                    "text": "تنها 3 عدد در انبار باقیست",
+                    "text_color": "#d32f2f",
+                    "icon": null,
+                    "icon_color": null
+                }
+            },
+            {
+                "id": 2087200,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل نوکیا مدل 105 - 2019 TA-1174 DS FA دو سیم کارت ظرفیت 4 مگابایت و رم 4 مگابایت",
+                "title_en": "Nokia 105 - 2019 TA-1174 DS FA 4MB And 4MB RAM Dual SIM Mobile Phone",
+                "rating": {
+                    "rate": 84,
+                    "count": 10895
+                },
+                "brand": {
+                    "title_fa": "نوکیا"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/6d0ac0a28c34c29f7dd3019caef0fdb376afefb2_1664877785.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 16275881,
+                "parameters": {
+                    "color_ids": [
+                        1
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 5290000,
+                    "rrp_price": 5290000,
+                    "order_limit": 5,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": true,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 8182784,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل نوکیا مدل G21 TA-1418 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+                "title_en": "Nokia G21 TA-1418 Dual SIM 128GB And 6GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 82,
+                    "count": 288
+                },
+                "brand": {
+                    "title_fa": "نوکیا"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/321452060d25c5f0eab32482cd4589ae2546013b_1656422450.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 32568417,
+                "parameters": {
+                    "color_ids": [
+                        14,
+                        42
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 48490000,
+                    "rrp_price": 49700000,
+                    "order_limit": 5,
+                    "is_incredible": false,
+                    "is_promotion": true,
+                    "bnpl_active": false,
+                    "badge": {
+                        "title": "فروش ویژه",
+                        "color": "#E6123D",
+                        "icon": null
+                    },
+                    "is_digiplus_promotion": false,
+                    "is_digiplus_early_access": false,
+                    "is_plus_promotion": false,
+                    "is_plus_early_access": false,
+                    "is_application_incredible": false,
+                    "is_lightening_deal": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9451499,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل آنر مدل 50 Lite دو سیم کارت ظرفیت 128گیگابایت و رم 6 گیگابایت",
+                "title_en": "HONOR 50 Lite Dual SIM 128GB And 6GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 88,
+                    "count": 235
+                },
+                "brand": {
+                    "title_fa": "آنر"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/94120dd17a3e09aaf9ff9c0d7365f7c4cb0fc339_1663137852.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 37963959,
+                "parameters": {
+                    "color_ids": [
+                        1
+                    ]
+                },
+                "warehouse_stock": 1,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": false,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 60900000,
+                    "rrp_price": 60900000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "marketable_stock": 1,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "product_badge": {
+                    "text": "تنها 1 عدد در انبار باقیست",
+                    "text_color": "#d32f2f",
+                    "icon": null,
+                    "icon_color": null
+                }
+            },
+            {
+                "id": 4834527,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل سامسونگ مدل  Galaxy A72 SM-A725F\/DS دو سیم‌کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+                "title_en": "Samsung Galaxy A72 SM-A725F\/DS Dual SIM 256GB And 8GB Ram Mobile Phone",
+                "rating": {
+                    "rate": 84,
+                    "count": 1284
+                },
+                "brand": {
+                    "title_fa": "سامسونگ"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/e69e826cdfe298a3cff622bd03d226b7238d6e85_1656478432.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 20663216,
+                "parameters": {
+                    "color_ids": [
+                        1
+                    ]
+                },
+                "warehouse_stock": 8,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 152200000,
+                    "rrp_price": 152200000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            },
+            {
+                "id": 9118043,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل جی پلاس مدل Q20 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ",
+                "title_en": "G PLUS Q20 Dual SIM 64GB And 4GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 84,
+                    "count": 78
+                },
+                "brand": {
+                    "title_fa": "جی پلاس"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/9c6adac99093d0e74f6b36b074eab5d70c5c7946_1659443921.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 37120103,
+                "parameters": {
+                    "color_ids": [
+                        81,
+                        89,
+                        157
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": true,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار فروشنده و دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 34390000,
+                    "rrp_price": 36500000,
+                    "order_limit": 1,
+                    "is_incredible": false,
+                    "is_promotion": true,
+                    "bnpl_active": false,
+                    "badge": {
+                        "title": "فروش ویژه",
+                        "color": "#E6123D",
+                        "icon": null
+                    },
+                    "is_digiplus_promotion": false,
+                    "is_digiplus_early_access": false,
+                    "is_plus_promotion": false,
+                    "is_plus_early_access": false,
+                    "is_application_incredible": false,
+                    "is_lightening_deal": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "ارسال توسط فروشنده",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-delivery-ship-by-seller",
+                    "icon_color": "#d86b00"
+                }
+            },
+            {
+                "id": 7624321,
+                "category_id": 11,
+                "category_title": "گوشی موبایل",
+                "title_fa": "گوشی موبایل هوآوی مدل nova 9 NAM-LX9 دو سیم کارت ظرفیت 128گیگابایت و 8 گیگابایت رم ",
+                "title_en": "HUAWEI nova 9 NAM-LX9 Dual SIM 128GB And 8GB RAM Mobile Phone",
+                "rating": {
+                    "rate": 88,
+                    "count": 215
+                },
+                "brand": {
+                    "title_fa": "هوآوی"
+                },
+                "status": "marketable",
+                "images": {
+                    "main": "https:\/\/dkstatics-public.digikala.com\/digikala-products\/864d0e9caeb1898a87bef4d728dc7acee2c526dd_1656430491.jpg?x-oss-process=image\/resize,m_lfit,h_240,w_240\/quality,q_80"
+                },
+                "default_variant_id": 26971864,
+                "parameters": {
+                    "color_ids": [
+                        1,
+                        4
+                    ]
+                },
+                "warehouse_stock": 0,
+                "properties": {
+                    "is_fast_shopping": false,
+                    "is_ship_by_seller": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "is_ready_to_ship": true,
+                    "has_gift": false,
+                    "is_medical_supplement": false,
+                    "is_electronic": false,
+                    "is_roosta": false,
+                    "warehouse_label": "موجود در انبار دیجی‌کالا",
+                    "is_ad": false
+                },
+                "fidibo": null,
+                "price": {
+                    "selling_price": 99490000,
+                    "rrp_price": 99490000,
+                    "order_limit": 2,
+                    "is_incredible": false,
+                    "is_promotion": false,
+                    "bnpl_active": false,
+                    "is_plus_extra_discount": false
+                },
+                "digiplus": {
+                    "services": [
+                        "امکان ارسال فوری (شهر تهران)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز ویژه دیجی‌پلاس"
+                },
+                "product_badge": {
+                    "text": "موجود در انبار دیجی‌کالا",
+                    "text_color": "#62666d",
+                    "icon": "cube-badge-available-product",
+                    "icon_color": "#0fabc6"
+                }
+            }
+        ]
+    }
+}
